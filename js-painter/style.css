@@ -1,5 +1,5 @@
 /* reset */
 html,body { 
-    min-width:; width:100%; height:100%; 
+    width:100%; height:100%; 
 }
 body { font-family: 'Helvetica','Noto Sans KR' sans-serif; font-size:12px; } 
