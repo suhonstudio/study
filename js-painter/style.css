@@ -70,6 +70,10 @@ body {
 
 @media all and (max-width:700px){
 
+    .canvas {
+        height:55vh;
+    }
+
     .controls__colors .controls__color {
         width: 34px;
         height: 34px;
